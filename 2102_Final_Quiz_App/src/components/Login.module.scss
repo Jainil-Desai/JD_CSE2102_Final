@@ -1,0 +1,71 @@
+.loginContainer {
+    max-width: 400px;
+    margin: 0 auto;
+    margin-top: 150px;
+    padding: 20px;
+    border: 2px solid #ccc;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+.loginContainer h1 {
+    font-size: 24px;
+    margin-bottom: 20px;
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+}
+  
+label {
+    display: block;
+    margin-bottom: 8px;
+    font-family: 'Montserrat', sans-serif;
+}
+  
+.input {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 16px;
+    box-sizing: border-box;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+  
+.loginContainer button {
+    background-color: #000;
+    color: white;
+    padding: 10px 20px;
+    margin: 8px 0;
+    font-size: 16px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    display: block;
+    margin: 0 auto;
+    width: 50%;
+}
+  
+.loginContainer button:hover {
+    background-color: #40826D;
+}
+
+.loginContainer .custom_shape_divider_bottom_1701999453 {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    overflow: hidden;
+    line-height: 0;
+    transform: rotate(180deg);
+    z-index: -1;
+}
+
+.loginContainer .custom_shape_divider_bottom_1701999453 svg {
+    position: relative;
+    display: block;
+    width: calc(100% + 1.3px);
+    height: 400px;
+}
+
+.loginContainer .custom_shape_divider_bottom_1701999453 .shapeFill {
+    fill: #40826D;
+}

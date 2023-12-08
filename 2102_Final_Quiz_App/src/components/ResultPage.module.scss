@@ -1,0 +1,38 @@
+* {
+    margin: 0;
+}
+
+.resultPage {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    width: 100vw;
+    background-color: #f5f5f5;
+    font-family: 'Roboto', sans-serif;
+    font-size: 1.5rem;
+    text-align: center;
+    padding: 20px; 
+}
+
+.resultPage h1,
+.resultPage h3 {
+    margin-bottom: 10px; 
+}
+
+.resultPage button {
+    margin-top: 20px; 
+    padding: 0.5rem 1rem;
+    border: none;
+    border-radius: 0.5rem;
+    background-color: #333;
+    color: #fff;
+    font-size: 1rem;
+    font-weight: 700;
+    cursor: pointer;
+}
+
+.resultPage button:hover {
+    background-color: #40826D;
+}
