@@ -4,7 +4,7 @@ For starters, make sure Node is installed on your machine. If not install you ca
 
 Open terminal and clone this GitHub repo with this command `git clone https://github.com/Jainil-Desai/JD_CSE2102_Final.git`
 
-### Step 2: Navigate to the correct folder
+# Step 2: Navigate to the correct folder
 
 After clone this repo, cd into `2102_Final_Quiz_App` folder with the command `cd JD_CSE_2102_Final/2102_Final_Quiz_App`
 
